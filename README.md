@@ -31,6 +31,8 @@ The DHT11 sensor collects real-time temperature and humidity data. The NodeMCU E
 - KiwisIoT Library
 - KiwisIoT Platform
 
+[View Arduino Code](./dhtiot.ino)
+
 ## 🔌 Circuit Connections
 
 | DHT11 Sensor | NodeMCU ESP8266 |
@@ -57,6 +59,8 @@ The KiwisIoT platform is used for online monitoring of sensor readings.
 |---|---|---|
 | Channel 0 | Temperature | °C |
 | Channel 1 | Humidity | % |
+
+![DHT11 IoT Output](./dhtwidget.png)
 
 ## 📊 Data Monitoring
 
