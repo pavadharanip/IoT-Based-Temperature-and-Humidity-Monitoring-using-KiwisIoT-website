@@ -60,7 +60,7 @@ The KiwisIoT platform is used for online monitoring of sensor readings.
 | Channel 0 | Temperature | °C |
 | Channel 1 | Humidity | % |
 
-![DHT11 Output](./imgdht)
+![DHT11 Output](./imgdht.jpeg)
 
 ## 📊 Data Monitoring
 
