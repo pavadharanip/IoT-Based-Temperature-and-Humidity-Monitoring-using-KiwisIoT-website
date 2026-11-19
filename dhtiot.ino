@@ -3,11 +3,11 @@
 #include <DHT.h>
 
 // WiFi credentials
-const char* ssid = "lapptt";
-const char* pass = "oppof298";
+const char* ssid = "YOUR WIFI NAME";
+const char* pass = "YOUR PASSWORD";
 
 // KiwisIoT Topic ID
-const char* topic = "dash_1794897000023";
+const char* topic = "TOPIC DASH ID";
 
 // DHT11 configuration
 #define DHTPIN D2
