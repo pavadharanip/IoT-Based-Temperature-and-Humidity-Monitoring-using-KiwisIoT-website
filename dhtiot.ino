@@ -7,7 +7,7 @@ const char* ssid = "YOUR WIFI NAME";
 const char* pass = "YOUR PASSWORD";
 
 // KiwisIoT Topic ID
-const char* topic = "TOPIC DASH ID";
+const char* topic = "DASHBOARD TOPIC ID";
 
 // DHT11 configuration
 #define DHTPIN D2
